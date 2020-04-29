@@ -1,0 +1,12 @@
+.card {
+  color: black;
+  background: #bbbe64;
+  padding: 20px 40px 20px 40px;
+  border-radius: 30px;
+}
+.cart-title {
+  font-size: 24px;
+}
+.cart-text {
+  font-size: 18px;
+}
